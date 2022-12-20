@@ -5,6 +5,8 @@ class Animal {}
 class Dog extends Animal {}
 class Cat extends Animal {}
 
+// ======================================================
+
 // 原型模式
 // 1. 不是从类继承功能
 // 2. 来自已经创建的对象
