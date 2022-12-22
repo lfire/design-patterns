@@ -1,0 +1,22 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "23种设计模式，归类为3类，举其中的10种为例：",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfire/design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfire/design-patterns/issues"
+  },
+  "homepage": "https://github.com/lfire/design-patterns#readme",
+  "dependencies": {
+    "rxjs": "^7.8.0"
+  }
+}
